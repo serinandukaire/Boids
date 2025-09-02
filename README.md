@@ -1,6 +1,6 @@
 # Boids
 Graphical Boids using Python
 
-## TODO ##
+## TO DO ##
 - [ ] Add comments
 - [ ] Separate files
